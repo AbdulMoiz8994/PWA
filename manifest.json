@@ -1,0 +1,11 @@
+{
+    "name": "Demo-of-PWA",
+     "short_name": "myPWAapp",
+     "start_url": "/index.html",
+     "icons": [],
+     "display": "standalone",
+     "scope": "",
+     "orientation": "any",
+     "backgroundColor": "green",
+     "description": "This is practic eof pws"
+}
